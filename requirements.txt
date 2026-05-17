@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-groq
+langchain-google-genai
+chromadb
+sentence-transformers
+transformers
+torch
+pillow
+fastapi
+uvicorn
+python-dotenv
+pandas
+groq
+google-generativeai
